@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">global-ndp</string>
+    <string name="text_TieuDe">Information Form</string>
+    <string name="hint_Hoten">Input Fullname</string>
+    <string name="hint_email">Input email</string>
+    <string name="hint_Sodienthoai">Input telephone number</string>
+    <string name="text_Xacnhan">Confirm</string>
+    <string name="txt_ChaoBan">Hello</string>
+    <string name="text_Email" translatable="false">Email</string>
+    <string name="text_Sodienthoai">Phone number</string>
+</resources>
